@@ -1,0 +1,21 @@
+id,chain,signal_type,liquidity_flow_score,stablecoin_intel_score,capital_rotation_score,dex_activity_score,bridge_activity_score,ecosystem_momentum_score,overall_intelligence_index,priority_signal,ethereum_score,bnb_chain_score,solana_score,arbitrum_score,market_condition,notes
+1,Ethereum,liquidity-flow,90,84,88,82,92,86,87,DEX Activity,90,84,88,86,Bull Market,High liquidity inflows detected
+2,BNB Chain,dex-activity,86,80,84,90,82,82,84,Stablecoin Intel,86,90,84,82,Neutral,DEX volume spike on BNB
+3,Solana,ecosystem-momentum,82,78,84,88,80,90,84,Stablecoin Intel,82,78,88,80,Bull Market,Solana ecosystem momentum surge
+4,Arbitrum,bridge-activity,88,82,86,80,92,84,85,DEX Activity,88,82,86,84,Neutral,Bridge inflows to Arbitrum
+5,Optimism,capital-rotation,84,80,90,78,84,82,83,DEX Activity,84,80,90,82,Rotation,Capital rotating to L2s
+6,Polygon,liquidity-flow,82,78,82,86,84,80,82,Stablecoin Intel,82,78,82,80,Neutral,Polygon DeFi activity rising
+7,Avalanche,ecosystem-momentum,80,76,82,80,78,88,81,Bridge Activity,80,76,82,88,Emerging,Avalanche ecosystem expansion
+8,Base,bridge-activity,84,78,82,84,88,82,83,Stablecoin Intel,84,78,82,82,Growing,Base bridge activity spike
+9,Ethereum,stablecoin-intel,92,90,86,84,88,86,88,Capital Rotation,92,90,86,86,Bear Market,Stablecoin accumulation signal
+10,BNB Chain,capital-rotation,86,82,90,84,82,82,84,Bridge Activity,86,82,90,82,Rotation,Capital rotating within BNB DeFi
+11,Solana,dex-activity,84,78,82,92,80,84,83,Stablecoin Intel,84,78,82,84,Bull Market,Solana DEX volume record
+12,Arbitrum,stablecoin-intel,88,86,84,80,86,82,84,DEX Activity,88,86,84,82,Accumulation,USDC inflows to Arbitrum
+13,Ethereum,dex-activity,90,84,86,90,88,86,87,Capital Rotation,90,84,86,86,High Volume,Uniswap volume surge
+14,Polygon,bridge-activity,82,78,80,82,88,80,82,Stablecoin Intel,82,78,80,80,Neutral,Cross-chain bridge active
+15,BNB Chain,ecosystem-momentum,84,80,84,86,82,88,84,Bridge Activity,84,80,84,88,Growing,BNB ecosystem expansion
+16,Avalanche,liquidity-flow,80,76,82,78,80,82,80,Stablecoin Intel,80,76,82,82,Neutral,Avalanche liquidity stable
+17,Base,dex-activity,84,80,82,88,84,82,83,Capital Rotation,84,80,82,82,Emerging,Base DEX growth trajectory
+18,Optimism,stablecoin-intel,86,84,82,80,84,82,83,DEX Activity,86,84,82,82,Accumulation,USDC stable on Optimism
+19,Ethereum,capital-rotation,90,86,90,88,88,88,88,Bridge Activity,90,86,90,88,Rotation,Cross-chain capital moving
+20,Solana,bridge-activity,82,78,82,86,88,84,83,Stablecoin Intel,82,78,82,84,Growing,Solana bridge traffic rising
