@@ -1,0 +1,76 @@
+{
+  "title": "VOIDTRACE AI Crypto Liquidity Intelligence Engine",
+  "description": "VOIDTRACE AI is a blockchain intelligence software concept designed to organize and interpret cross-chain market activity. Combines specialized AI agents with blockchain data to analyze liquidity flows, stablecoin movements, capital rotation, DEX activity, bridge activity, and ecosystem momentum. Built by VOIDTRACE AI.",
+  "creators": [
+    {
+      "name": "VOIDTRACE AI"
+    }
+  ],
+  "keywords": [
+    "VOIDTRACE AI",
+    "Crypto Liquidity Intelligence",
+    "Blockchain Analytics",
+    "Cross-Chain Intelligence",
+    "DeFi Analytics",
+    "On-Chain Signals",
+    "Stablecoin Intelligence",
+    "DEX Activity",
+    "Bridge Analytics"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/voidtrace-ai/crypto-liquidity-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://voidtraceai.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@voidtrace-ai/crypto-liquidity-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/crypto-liquidity-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/voidtrace-ai/liquidity-intelligence-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/voidtraceai/liquidity-intelligence-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Voidtrace-AI",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/VoidtraceAI",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/voidtrace-ai-cross-chain-liquidity-intelligence-blockchain-market-insights/289579387",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@VOIDTRACE_AI",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

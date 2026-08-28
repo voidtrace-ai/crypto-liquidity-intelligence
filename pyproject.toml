@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crypto-liquidity-intelligence"
+version = "1.0.0"
+authors = [
+  { name = "VOIDTRACE AI", email = "info@voidtraceai.com" },
+]
+description = "VOIDTRACE AI Crypto Liquidity Intelligence Engine — blockchain intelligence for cross-chain liquidity flows, stablecoin movements, capital rotation, and DEX activity."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Office/Business :: Financial",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = [
+    "crypto-liquidity-intelligence",
+    "blockchain-analytics",
+    "cross-chain-intelligence",
+    "defi-analytics",
+    "on-chain-signals",
+    "stablecoin-intelligence",
+    "dex-activity",
+    "bridge-analytics",
+    "voidtrace-ai",
+]
+
+[project.urls]
+Homepage = "https://voidtraceai.com"
+GitHub = "https://github.com/voidtrace-ai/crypto-liquidity-intelligence"
+Documentation = "https://crypto-liquidity-intelligence.readthedocs.io"
+PyPI = "https://pypi.org/project/crypto-liquidity-intelligence"
+
+[project.scripts]
+voidtrace-intel = "crypto_liquidity_intel:main"

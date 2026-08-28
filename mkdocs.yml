@@ -1,0 +1,21 @@
+site_name: VOIDTRACE AI Crypto Liquidity Intelligence
+site_url: https://crypto-liquidity-intelligence.readthedocs.io
+site_description: Blockchain intelligence for cross-chain liquidity flows, stablecoin movements, capital rotation, DEX activity, bridge activity, and ecosystem momentum.
+site_author: VOIDTRACE AI
+
+repo_name: voidtrace-ai/crypto-liquidity-intelligence
+repo_url: https://github.com/voidtrace-ai/crypto-liquidity-intelligence
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+    accent: purple
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

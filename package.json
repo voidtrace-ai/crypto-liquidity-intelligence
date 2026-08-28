@@ -1,0 +1,37 @@
+{
+  "name": "@voidtrace-ai/crypto-liquidity-intelligence",
+  "version": "1.0.0",
+  "description": "VOIDTRACE AI Crypto Liquidity Intelligence Engine — blockchain intelligence for cross-chain liquidity flows, stablecoin movements, capital rotation, and DEX activity.",
+  "main": "index.js",
+  "bin": {
+    "voidtrace-intel": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto-liquidity-intelligence",
+    "blockchain-analytics",
+    "cross-chain-intelligence",
+    "defi-analytics",
+    "on-chain-signals",
+    "stablecoin-intelligence",
+    "dex-activity",
+    "bridge-analytics",
+    "voidtrace-ai",
+    "capital-rotation",
+    "ecosystem-momentum",
+    "crypto-intelligence"
+  ],
+  "author": "VOIDTRACE AI",
+  "license": "MIT",
+  "homepage": "https://voidtraceai.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voidtrace-ai/crypto-liquidity-intelligence"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
