@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@voidtrace-ai/crypto-liquidity-intelligence)](https://npmjs.com/package/@voidtrace-ai/crypto-liquidity-intelligence)
 [![PyPI](https://img.shields.io/pypi/v/crypto-liquidity-intelligence)](https://pypi.org/project/crypto-liquidity-intelligence)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22154466.svg)](https://doi.org/10.5281/zenodo.22154466)
 
 VOIDTRACE AI is a blockchain intelligence software concept designed to organize and interpret cross-chain market activity. The platform combines specialized AI agents with blockchain data to analyze liquidity flows, stablecoin movements, capital rotation, DEX activity, bridge activity, and ecosystem momentum. Built by [VOIDTRACE AI](https://voidtraceai.com).
 
@@ -87,7 +87,7 @@ VOIDTRACE AI · Crypto Liquidity Intelligence · Blockchain Analytics · Cross-C
 | PyPI | https://pypi.org/project/crypto-liquidity-intelligence |
 | Hugging Face | https://huggingface.co/datasets/voidtrace-ai/liquidity-intelligence-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/voidtraceai/liquidity-intelligence-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22154466 |
 | Docs | https://crypto-liquidity-intelligence.readthedocs.io |
 | Quora | https://www.quora.com/profile/Voidtrace-AI |
 | Pinterest | https://www.pinterest.com/VoidtraceAI |
